@@ -10,4 +10,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    /**
+     * feature1
+     * @param x
+     * @param y
+     * @return
+     */
+    public int feature1_sum(int x,int y){
+        return x+y;
+    }
+
 }
