@@ -5,5 +5,6 @@ package com.example.mygit;
  */
 public class ImgTools {
     private void fun1(){}
+    private void fun2(){}
 
 }
