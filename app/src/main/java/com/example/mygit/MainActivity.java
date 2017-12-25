@@ -21,4 +21,13 @@ public class MainActivity extends AppCompatActivity {
         return x+y;
     }
 
+    public void fun1(){
+
+    }
+
+    public void fun4(){
+
+    }
+
+
 }
